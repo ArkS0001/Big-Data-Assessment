@@ -1,3 +1,8 @@
+Coffee Consumption Data:
+    The International Coffee Organization (ICO) provides data on coffee consumption by country. You can find the data on their website or in their annual reports.
+Liver Cancer Occurrences Data:
+    The World Health Organization (WHO) provides data on cancer occurrence rates by country. You can find this data in their Global Cancer Observatory (GLOBOCAN) database.
+
 Top Coffee Consuming Countries:
 
     Brazil
@@ -29,3 +34,5 @@ Liver Cancer Occurrences Data (per 100,000 people):
     Gambia: 20.6
     Lao People's Democratic Republic: 73.1
     Thailand: 22.7
+
+ Pearson correlation coefficient is approximately -0.398
